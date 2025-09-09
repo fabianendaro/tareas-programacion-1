@@ -31,4 +31,5 @@ int main(){
     cout<< "El porcentaje de caras es: "<< porcentaje_c<<"%"<<endl;
     cout<< "El porcentaje de cruz es: "<< porcentaje_x<<"%"<<endl;
     return 0;
+
 }
